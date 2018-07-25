@@ -1,0 +1,11 @@
+D:\Workspace\ImportDataApi\ImportDataApi\bin\Debug\netcoreapp2.1\ImportDataApi.deps.json
+D:\Workspace\ImportDataApi\ImportDataApi\bin\Debug\netcoreapp2.1\ImportDataApi.runtimeconfig.json
+D:\Workspace\ImportDataApi\ImportDataApi\bin\Debug\netcoreapp2.1\ImportDataApi.runtimeconfig.dev.json
+D:\Workspace\ImportDataApi\ImportDataApi\bin\Debug\netcoreapp2.1\ImportDataApi.dll
+D:\Workspace\ImportDataApi\ImportDataApi\obj\Debug\netcoreapp2.1\ImportDataApi.csprojAssemblyReference.cache
+D:\Workspace\ImportDataApi\ImportDataApi\obj\Debug\netcoreapp2.1\ImportDataApi.csproj.CoreCompileInputs.cache
+D:\Workspace\ImportDataApi\ImportDataApi\obj\Debug\netcoreapp2.1\ImportDataApi.RazorAssemblyInfo.cache
+D:\Workspace\ImportDataApi\ImportDataApi\obj\Debug\netcoreapp2.1\ImportDataApi.RazorAssemblyInfo.cs
+D:\Workspace\ImportDataApi\ImportDataApi\obj\Debug\netcoreapp2.1\ImportDataApi.AssemblyInfoInputs.cache
+D:\Workspace\ImportDataApi\ImportDataApi\obj\Debug\netcoreapp2.1\ImportDataApi.AssemblyInfo.cs
+D:\Workspace\ImportDataApi\ImportDataApi\obj\Debug\netcoreapp2.1\ImportDataApi.RazorTargetAssemblyInfo.cache
