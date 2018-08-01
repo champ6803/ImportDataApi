@@ -3617,11 +3617,7 @@
     "runtime.native.System.Security.Cryptography/4.0.0": {
       "type": "package",
       "serviceable": true,
-<<<<<<< HEAD
-      "sha512": "sha512-ZbZxZpzg95nz7IrJB+uDXJeTIO3mTsT4RKhyUVnfM2+nS+vvxYAH5yFQ84yGoUReaXmf8Vf+vWb+C4XgMwXapQ==",
-=======
       "sha512": "sha512-2CQK0jmO6Eu7ZeMgD+LOFbNJSXHFVQbCJJkEyEwowh1SCgYnrn9W9RykMfpeeVGw7h4IBvYikzpGUlmZTUafJw==",
->>>>>>> 671a5c69e2a72151a8317a3cffe37918cd4d3b2a
       "path": "runtime.native.system.security.cryptography/4.0.0",
       "hashPath": "runtime.native.system.security.cryptography.4.0.0.nupkg.sha512"
     },
@@ -3649,11 +3645,7 @@
     "System.Diagnostics.Process/4.1.0": {
       "type": "package",
       "serviceable": true,
-<<<<<<< HEAD
-      "sha512": "sha512-mpVZ5bnlSs3tTeJ6jYyDJEIa6tavhAd88lxq1zbYhkkCu0Pno2+gHXcvZcoygq2d8JxW3gojXqNJMTAshduqZA==",
-=======
       "sha512": "sha512-m/ekGY63RsHDWp2epwynUo7vzbtZDog0JjO5kqui2vMFzonzKh97bND5lQQdeZ67LV23laOuUzoEXVTBeJNu+w==",
->>>>>>> 671a5c69e2a72151a8317a3cffe37918cd4d3b2a
       "path": "system.diagnostics.process/4.1.0",
       "hashPath": "system.diagnostics.process.4.1.0.nupkg.sha512"
     },

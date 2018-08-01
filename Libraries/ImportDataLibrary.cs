@@ -20,6 +20,7 @@ namespace ImportDataApi.Libraries
             pro.type_account = p.type_account;
             pro.age = p.age;
             pro.email = p.email;
+            pro.experience =  p.experience;
             pro.computer_lang = p.computer_lang;
             await imDAL.InsertData(pro);
             return  pro;
