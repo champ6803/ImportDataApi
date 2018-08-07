@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using ImportDataApi.Models;
 using ImportDataApi.Helper;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ImportDataApi.Controllers
 {
@@ -27,7 +28,7 @@ namespace ImportDataApi.Controllers
         }
 
         // POST api/values
-        [HttpPost]
+        [HttpPost, Authorize]
         public async Task ImportData(Profile p)
         {
             var result = await imHeplp.InsertData(p);
